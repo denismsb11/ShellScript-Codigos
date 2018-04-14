@@ -1,0 +1,3 @@
+Quando utilizar o nano eu faço 
+C^ X para SAIR
+Y^ Y para SALVAR
